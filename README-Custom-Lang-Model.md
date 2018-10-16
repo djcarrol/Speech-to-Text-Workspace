@@ -1,4 +1,4 @@
-# Speech-to-Text-Workspace
+# Speech-to-Text Custom Language Model
 1.  Background
 Teams working to train Speech-to-Text Models for Custom Language Models and Acoustic Models will need to do the following steps in Development as well as Production as currently there is not a supported vehicle for moving fully trained models from Development to Production.   
 
