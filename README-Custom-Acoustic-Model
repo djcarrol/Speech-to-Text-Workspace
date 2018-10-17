@@ -1,7 +1,14 @@
 Speech-To-Text Acoustics Model
 
 1.  Background
+Modern day speech-to-text services are built using a corpus of general, everyday words and pronuciations 
+that works well for common conversation, however, when technology is being utilized in industry specific environments, 
+transcribing unique accents or uncommon dialect, the ability to utilize the machine learning capabiltities in IBM Watson 
+provides training custom Speech-To-Text models (Language & Acoustic) so as to more accurately align with highly specialized, 
+industry-specific terminology and jargon achieving a higher degree of accuracy.
+
 Teams working to train Speech-to-Text Models for Custom Language Models and Acoustic Models will need to do the following steps in Development as well as Production as currently there is not a supported vehicle for moving fully trained models from Development to Production.   
+
 
 Replace {username} and {password} in the commands below with the appropriate credentials for the Speech-To-Text service instance.  If using Identity and Access Management (IAM) API Key, replace {username}:{password} with “apikey:{apikey}” where {apikey} is the IAM API Key value for the Speech-To-Text service instance.
     	
