@@ -2,7 +2,7 @@ Speech-To-Text Acoustics Model
 
 1.  Background
 
-Modern day speech-to-text services are built using a corpus of general, everyday words and pronociations that works well for common conversations, however, when technology is being utilized in industry specific environments and there is a need to transribe unique accents or uncommon dialects as most companies offer services around the world, the ability to utilize machine learning capabilities is key.   IBM Watson provides the ability to train custom Speech-To-Text models (both lanugage and acoustic) so customers can more accurately align these services with highly specialized, industry-specific terminology and jargon to achieve a higher degree of accuracy. 
+Modern day speech-to-text services are built using a corpus of general, everyday words and pronociations that works well for common conversations, however, when technology is being utilized in industry specific environments and there may be a need to transribe unique accents or uncommon dialects as many companies offer services around the world and the ability to utilize machine learning capabilities is critical to success and utilization.   IBM Watson provides the ability to train custom Speech-To-Text models (both lanugage and acoustic) so customers can more accurately align these services with highly specialized, industry-specific terminology and jargon to achieve a higher degree of accuracy.  
 
 Teams working to train Speech-to-Text Models for Custom Language Models and Acoustic Models will need to do the following steps in Development as well as Production as currently there is not a supported vehicle for moving fully trained models from Development to Production.   
 
